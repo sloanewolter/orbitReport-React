@@ -1,8 +1,8 @@
 import Buttons from "./components/Buttons";
 import Table from "./components/Table";
-import Banner from "./components/Banner.js";
+import Banner from "./components/Banner";
 import useState from "react";
-import satData from "./components/satData.js";
+import satData from "./components/satData";
 
 
 
